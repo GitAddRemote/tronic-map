@@ -1,0 +1,19 @@
+{
+  "name": "tronic-map",
+  "version": "0.0.1",
+  "description": "This is a promise based implementation of the Array.Map function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitAddRemote/tronic-map.git"
+  },
+  "author": "Demian (GitAddRemote)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitAddRemote/tronic-map/issues"
+  },
+  "homepage": "https://github.com/GitAddRemote/tronic-map#readme"
+}
