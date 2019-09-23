@@ -4,7 +4,7 @@
   "description": "This is a promise based implementation of the Array.Map function",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GitAddRemote/tronic-map/issues"
   },
-  "homepage": "https://github.com/GitAddRemote/tronic-map#readme"
+  "homepage": "https://github.com/GitAddRemote/tronic-map#readme",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.2.0"
+  }
 }
